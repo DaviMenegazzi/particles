@@ -1,1 +1,1 @@
-![] (particles_gif.gif)
+![](particles_gif.gif)
